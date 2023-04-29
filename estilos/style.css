@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 100vh;
 }
 
 h1,
@@ -22,7 +23,9 @@ p {
 
 main {
     background-color: #fff;
-
+    width: 50%;
+    min-height: 600px;
+    text-align: center;
 }
 
 footer {
