@@ -47,6 +47,7 @@ main header h1 {
 main header h1 > small {
     background: #f8db97;
     font: 12px 'Roboto', sans-serif;
+    padding: 4px;
 }
 
 main article .conteudo-artigo {
